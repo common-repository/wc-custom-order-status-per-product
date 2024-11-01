@@ -1,0 +1,9 @@
+.occospp_status_span {
+    display: block;
+    padding-top: 4px;
+}
+
+.woocommerce-account .woocommerce-MyAccount-content .occospp_status_span p {
+	font-size: inherit;
+	font-family: inherit;
+}

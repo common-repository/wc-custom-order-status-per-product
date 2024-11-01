@@ -1,0 +1,172 @@
+a.occospp_add_status {
+    display: inline-block;
+    padding: 4px 6px;
+    color: #00aba8;
+    font-size: 14px;
+    border: 2px solid #00aba8;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-bottom: 25px;
+    margin-left: 10px;
+}
+
+.occospp_status_table .wp-picker-container {
+    cursor: none;
+    pointer-events: none;
+}
+label.ocfmhglgt_pro_link {
+    font-weight: bold;
+}
+p.occospp_remove_status {
+	display: inline-block;
+    padding: 4px 6px;
+    color: #00aba8;
+    font-size: 14px;
+    border: 2px solid #00aba8;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+}
+img.OCCOSPP_rating_div {
+    width: 100px;
+    vertical-align: middle;
+}
+.occospp_status_table {
+  width: 65%;
+}
+
+.occospp_status_table td, .occospp_status_table th {
+  padding: 8px;
+}
+
+.occospp_status_table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+}
+
+.occospp-container .occospp_cover_div .oc_date_format_help {
+  margin-top: 7px;
+}
+
+.occospp-container .occospp_cover_div .oc_date_format_help .description {
+  display: inline-block;
+  width: 100%;
+  padding: 1px 0;
+}
+
+.occospp-container .occospp_cover_div .oc_date_format_help .description .ocfmhglgt {
+  background-color: #cccccc;
+  padding: 0px 6px;
+}
+
+.occospp-container .occospp_cover_div {
+  background-color: #f1f1f1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+.occospp-container .occospp_cover_div h2 {
+  background-color: #10B7B4;
+  color: #ffffff;
+  padding: 8px 8px;
+  font-size: 18px;
+  width: auto;
+}
+
+.occospp-container .button-primary {
+  margin: 15px 0;
+  background-color: #00aba8;
+  border-color: #00aba8;
+  padding: 3px 10px;
+  font-size: 15px;
+  font-weight: bold;
+  height: 100%;
+}
+
+
+/*CSS for support rating donation start*/
+.occospp_rating_div {
+    width: 100px;
+    vertical-align: middle;
+}
+.occospp_ratesup_notice_main {
+    display: inline-block;
+    width: 100%;
+}
+.occospp_rateus_notice, .occospp_support_notice {
+    display: inline-block;
+    width: 45%;
+    float: left;
+    color: #fff;
+    background-color: #fb5f51;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 15px;
+    height: 70px;
+    margin-bottom: 12px;
+}
+.occospp_rateus_notice h3, .occospp_support_notice h3 {
+    color: #fff;
+    margin: 0;
+    margin-bottom: 12px;
+    font-size: 20px;
+}
+.occospp_rateus_notice label, .occospp_support_notice label {
+    font-size: 16px;
+}
+.occospp_support_notice {
+    background-color: #2f3337;
+    margin-left: 2%;
+}
+.occospp_rateus_notice a, .occospp_support_notice a {
+    color: #fff;
+}
+.occospp_rtusnoti_left {
+    display: inline-block;
+    float: left;
+    width: 70%;
+}
+.occospp_rtusnoti_right {
+    display: inline-block;
+    float: right;
+    text-align: right;
+}
+.occospp_rtusnoti_right img {
+    width: 50px;
+    height: auto;
+}
+.occospp_donate_main {
+    background: #fff;
+    padding: 15px;
+    display: flex;
+    width: 94.6%;
+    border: 1px solid #e3bbac;
+    align-items: center;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    margin-top: 15px;
+}
+.occospp_donate_main img {
+    height: 32px;
+}
+.occospp_donate_main > * {
+    margin: 0 15px 0 0;
+    vertical-align: middle;
+}
+.occospp_onate_main h3 {
+    font-size: 15px;
+}
+.occospp_donate_form {
+    display: flex;
+}
+.occospp_donate_main .button {
+    text-align: center;
+}
+img.occospp_rating_div {
+    width: 100px;
+    width: 105px;
+    vertical-align: middle;
+}
+/*CSS for support rating donation end*/
